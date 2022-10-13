@@ -317,5 +317,6 @@ $RECYCLE.BIN/
 *.xls
 *.html
 *.csv
+*.jpg
 
 # End of https://www.toptal.com/developers/gitignore/api/python,visualstudiocode,r,windows,macos,jupyternotebooks
